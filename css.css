@@ -32,8 +32,8 @@
 	 text-align: center;
 	 margin: 50px auto;
 	 font-weight: 100;
-	 font-family: Inversionz;
-	 src: url(inversionz/Inversionz.ttf);
+	 font-family: "Inversionz";
+	 src: url(https://www.dafont.com/inversionz-old2.font);
 }
  label {
  	 position: relative;
